@@ -1,4 +1,4 @@
-FROM alpine
+FROM zxing/alpine
 
 WORKDIR /
 ENV _VERSION 6.9.0

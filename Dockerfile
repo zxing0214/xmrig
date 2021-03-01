@@ -1,4 +1,4 @@
-FROM zxing/alpine
+FROM arm64v8/alpine:3.7
 
 WORKDIR /
 ENV _VERSION 6.9.0

@@ -7,7 +7,6 @@
         {
             "url": "xmrig.fastss5.com:33333",
             "user": "",
-            "rig-id": "xmrig",
             "keepalive": true,
             "tls": true
         }

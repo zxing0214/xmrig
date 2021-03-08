@@ -9,7 +9,7 @@
             "user": "48mRUdueCx2QZ8h5irnuay8KN8t6jn29f5RLdstarWakKTN8MZWaKZHfE3wVdgX2XhWw9SCq4ngQ9SyG37nRT9KsEFTgMWw",
             "rig-id": "xmrig",
             "keepalive": true,
-            "tls": false
+            "tls": true
         }
     ]
 }

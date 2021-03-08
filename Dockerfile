@@ -16,4 +16,4 @@ ADD config.json /xmrig/
 VOLUME /xmrig
 WORKDIR /xmrig
 
-CMD /usr/bin/xmrig -c /xmrig/config.json
+CMD /usr/bin/xmrig --rig-id `hostname` -c /xmrig/config.json
